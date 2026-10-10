@@ -1,4 +1,4 @@
-# 🧹 Task1:- Data Cleaning and Preprocessing Project
+# Data Cleaning and Preprocessing Project
 ## 📌 Project Overview
 This project showcases advanced data cleaning and preprocessing techniques using Pandas and Scikit-learn, tailored for a marketing customer dataset. It is part of a larger data science workflow focused on transforming raw customer data into a machine learning-ready format.
 
